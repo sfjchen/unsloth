@@ -1537,3 +1537,4 @@ jobs:
             logs/playwright_mac_tabs
           # Repository-wide cap; larger values are silently clamped.
           retention-days: 1
+
